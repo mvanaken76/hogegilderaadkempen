@@ -3,12 +3,50 @@
     <title>Hoge Gilderaad der Kempen</title>
     <link href="https://hogegilderaadkempen.be/feed.xml" rel="self" />
     <link href="https://hogegilderaadkempen.be" />
-    <updated>2025-03-21T11:43:23+01:00</updated>
+    <updated>2025-12-21T19:17:20+01:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
     <id>https://hogegilderaadkempen.be</id>
 
+    <entry>
+        <title>Volksdanscursus voorjaar 2026</title>
+        <author>
+            <name>Werkgroep dansen</name>
+        </author>
+        <link href="https://hogegilderaadkempen.be/volksdanscursus-voorjaar-2026.html"/>
+        <id>https://hogegilderaadkempen.be/volksdanscursus-voorjaar-2026.html</id>
+        <media:content url="https://hogegilderaadkempen.be/media/posts/73/danscusus1.png" medium="image" />
+
+        <updated>2025-12-21T19:08:50+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://hogegilderaadkempen.be/media/posts/73/danscusus1.png" alt="" />
+                    De Hoge Gilderaad der Kempen (HGK) organiseert via de werkgroep Dans elk jaar twee volksdanscursussen. De volgende cursus vindt plaats op: Telkens van 20.00 tot 22.00 uur. Plaats: Op het programma staan traditionele Vlaamse dansen, nieuwe danscreaties en gemeenschapsdansen. De deelnameprijs bedraagt 10 euro voor&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hogegilderaadkempen.be/media/posts/73/danscusus1.png" class="type:primaryImage" alt="" /></p>
+                <p>De Hoge Gilderaad der Kempen (HGK) organiseert via de werkgroep Dans elk jaar twee volksdanscursussen.</p>
+<p>De volgende cursus vindt plaats op:</p>
+<ul>
+<li>maandag 2 februari</li>
+<li>maandag 16 februari en</li>
+<li>maandag 2 maart</li>
+<li>maandag 16 maart 2026</li>
+</ul>
+<p>Telkens van 20.00 tot 22.00 uur.</p>
+<p>Plaats:</p>
+<ul>
+<li>Gildelokaal van de Sint-Jorisgilde van Oostmalle<br>Hoogstraatsebaan 47<br>2390 Oostmalle</li>
+</ul>
+<p>Op het programma staan traditionele Vlaamse dansen, nieuwe danscreaties en gemeenschapsdansen.</p>
+<p>De deelnameprijs bedraagt 10 euro voor de volledige danscursus, te betalen in één keer, ongeacht het aantal keren dat men aanwezig kan zijn.</p>
+<p>Verdere informatie:<br>Margda Verbunt<br>GSM: 0479 31 51 40<br>E-mail: verbuntmagda@hotmail.com</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>uitslag tombola HGK 2025</title>
         <author>
@@ -20,7 +58,7 @@
             <category term="Steunfonds"/>
 
         <updated>2025-03-21T11:40:26+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/72/tombola-1240x771-lg.png" alt="" />
                     Prijzen af te halen voor 30 september 2025 bij Luc Fleerakkers. GSM 0479 876192 Bezorg winnende loten aan leden van de "wet". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.
@@ -47,7 +85,7 @@
             <category term="Raad der hoofdmannen en -vrouwen"/>
 
         <updated>2025-03-21T11:31:23+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 23 februari 2025.
                 ]]>
@@ -73,7 +111,7 @@
             <category term="Steunfonds"/>
 
         <updated>2024-04-02T21:00:35+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/70/tombola-1240x771-lg.png" alt="" />
                     Prijzen af te halen voor 30 september 2024 bij Luc Fleerakkers. GSM 0479 876192 Bezorg winnende loten aan leden van de "wet". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.
@@ -100,7 +138,7 @@
         <media:content url="https://hogegilderaadkempen.be/media/posts/69/Allerheiligen-1.jpg" medium="image" />
 
         <updated>2024-01-19T14:00:12+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/69/Allerheiligen-1.jpg" alt="" />
                     Ze ging dansend door het leven, Andrea Sterck meer dan 60 jaar dansleiding. De Vlaamse volksdanswereld en de Kempische gilden in het bijzonder verliezen vandaag één van hun grootste pioniers. Zij mogen dankbaar terugblikken op meer dan 60 jaar danservaring van Andrea Sterck die op&hellip;
@@ -139,7 +177,7 @@
         <media:content url="https://hogegilderaadkempen.be/media/posts/68/GildefeestOostm08_0166.JPG" medium="image" />
 
         <updated>2023-09-17T20:13:48+02:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/68/GildefeestOostm08_0166.JPG" alt="" />
                     De werkgroep dans van de HGK organiseert weer de jaarlijkse danscursus. Najaarscursus te Rijkevorsel Maandag 9 oktober 2023 Maandag 23 oktober 2023 Maandag 13 november 2023 Maandag 27 november 2023
@@ -170,7 +208,7 @@
             <category term="Orde papegaai en trouw"/>
 
         <updated>2023-03-24T19:42:02+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/67/OrdeVanPapegaaiEnTrouwBannerv4.jpg" alt="" />
                     Op zondag 7 mei 2023 organiseert de Hoge Gilderaad der Kempen haar jaarlijkse uitreiking van de "Orde van de Papegaai en Trouw". Meer informatie vindt u hieronder.
@@ -196,7 +234,7 @@
             <category term="Raad der hoofdmannen en -vrouwen"/>
 
         <updated>2023-03-24T19:38:44+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 26 februari 2023.
                 ]]>
@@ -223,7 +261,7 @@
             <category term="Steunfonds"/>
 
         <updated>2023-03-24T19:34:24+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                         <img src="https://hogegilderaadkempen.be/media/posts/65/tombola-1240x771-lg.png" alt="" />
                     Prijzen af te halen voor 30 september 2023 bij Luc Fleerakkers, Lessiusstraat 76a, 2960 Brecht. GSM 0479 876192 Neem eventjes contact met mij op voor u de prijzen komt afhalen zodat ik zeker thuis ben. Dank. Bezorg winnende loten aan leden van de "wet". Zij&hellip;
@@ -250,7 +288,7 @@
         <id>https://hogegilderaadkempen.be/volgorde-schoon-inkomen-2023-2025.html</id>
 
         <updated>2022-12-03T21:09:33+01:00</updated>
-            <summary>
+            <summary type="html">
                 <![CDATA[
                     Dit is de volgorde van het schoon inkomen 2023-25:
                 ]]>
@@ -261,31 +299,6 @@
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/64/gallery/Volgorde_schoon_inkomen_2023-20251.jpg" data-size="1400x3152"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/64/gallery/Volgorde_schoon_inkomen_2023-20251-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 <figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/64/gallery/Volgorde_schoon_inkomen_2023-20252.jpg" data-size="1904x1745"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/64/gallery/Volgorde_schoon_inkomen_2023-20252-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Verslag najaarsvergadering 23/10/2022</title>
-        <author>
-            <name>Patrick Arnouts</name>
-        </author>
-        <link href="https://hogegilderaadkempen.be/verslag-najaarsvergadering-23102022.html"/>
-        <id>https://hogegilderaadkempen.be/verslag-najaarsvergadering-23102022.html</id>
-            <category term="Raad der hoofdmannen en -vrouwen"/>
-
-        <updated>2022-12-03T21:04:10+01:00</updated>
-            <summary>
-                <![CDATA[
-                    Dit is het verslag van de najaarsvergadering van de raad der hoofdmannen en vrouwen 23 oktober 2022.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Dit is het verslag van de najaarsvergadering van de raad der hoofdmannen en vrouwen 23 oktober 2022.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/63/gallery/Verslag_najaarsvergadering_23_oktober_20221.jpg" data-size="1447x2048"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/63/gallery/Verslag_najaarsvergadering_23_oktober_20221-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/63/gallery/Verslag_najaarsvergadering_23_oktober_20222.jpg" data-size="1447x2048"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/63/gallery/Verslag_najaarsvergadering_23_oktober_20222-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div></div>
             ]]>
         </content>
