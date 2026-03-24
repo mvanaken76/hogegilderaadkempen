@@ -3,12 +3,40 @@
     <title>Hoge Gilderaad der Kempen</title>
     <link href="https://hogegilderaadkempen.be/feed.xml" rel="self" />
     <link href="https://hogegilderaadkempen.be" />
-    <updated>2026-03-01T18:40:36+01:00</updated>
+    <updated>2026-03-24T20:13:16+01:00</updated>
     <author>
         <name>Mathias Van Aken</name>
     </author>
     <id>https://hogegilderaadkempen.be</id>
 
+    <entry>
+        <title>uitslag tombola HGK 2026</title>
+        <author>
+            <name>Luc Fleerakkers</name>
+        </author>
+        <link href="https://hogegilderaadkempen.be/uitslag-tombola-hgk-2026.html"/>
+        <id>https://hogegilderaadkempen.be/uitslag-tombola-hgk-2026.html</id>
+        <media:content url="https://hogegilderaadkempen.be/media/posts/76/tombola-1240x771-lg.png" medium="image" />
+            <category term="Steunfonds"/>
+
+        <updated>2026-03-24T20:09:26+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://hogegilderaadkempen.be/media/posts/76/tombola-1240x771-lg.png" alt="" />
+                    Prijzen af te halen voor 30 september 2026 bij Luc Fleerakkers. GSM 0479 876192 Bezorg winnende loten aan leden van de "wet". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://hogegilderaadkempen.be/media/posts/76/tombola-1240x771-lg.png" class="type:primaryImage" alt="" /></p>
+                <p>Prijzen af te halen voor 30 september 2026 bij Luc Fleerakkers. GSM 0479 876192</p>
+<p>Bezorg winnende loten aan leden van de "wet". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.</p>
+<div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="1">
+<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/76/gallery/TombolaHGKlentefeest2026-2.jpg" data-size="2195x3255"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/76/gallery/TombolaHGKlentefeest2026-2-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Verslag voorjaarsvergadering 22/2/2026</title>
         <author>
@@ -262,32 +290,6 @@
                 <p>Op zondag 7 mei 2023 organiseert de Hoge Gilderaad der Kempen haar jaarlijkse uitreiking van de "Orde van de Papegaai en Trouw". Meer informatie vindt u hieronder.</p>
 <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
 <figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/67/gallery/uitnodiging_orde_van_papegaai_en_trouw_2023.jpg" data-size="2479x3508"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/67/gallery/uitnodiging_orde_van_papegaai_en_trouw_2023-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-</div></div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Verslag voorjaarsvergadering 26/2/2023</title>
-        <author>
-            <name>Jo Boenders</name>
-        </author>
-        <link href="https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2622023.html"/>
-        <id>https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2622023.html</id>
-            <category term="Raad der hoofdmannen en -vrouwen"/>
-
-        <updated>2023-03-24T19:38:44+01:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 26 februari 2023.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 26 februari 2023.</p>
-<div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="3">
-<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302261.jpg" data-size="2479x3508"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302261-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302262.jpg" data-size="2479x3508"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302262-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
-<figure class="gallery__item"><a href="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302263.jpg" data-size="2479x3508"><img loading="lazy" src="https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302263-thumbnail.jpg" alt="" width="240" height="240"></a></figure>
 </div></div>
             ]]>
         </content>

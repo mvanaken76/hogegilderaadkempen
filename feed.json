@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://hogegilderaadkempen.be/uitslag-tombola-hgk-2026.html",
+            "url": "https://hogegilderaadkempen.be/uitslag-tombola-hgk-2026.html",
+            "title": "uitslag tombola HGK 2026",
+            "summary": "Prijzen af te halen voor 30 september 2026 bij Luc Fleerakkers. GSM 0479 876192 Bezorg winnende loten aan leden van de \"wet\". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.",
+            "content_html": "<p>Prijzen af te halen voor 30 september 2026 bij Luc Fleerakkers. GSM 0479 876192</p>\n<p>Bezorg winnende loten aan leden van de \"wet\". Zij kunnen uw prijzen meebrengen. Zo moet u zich niet verplaatsen.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://hogegilderaadkempen.be/media/posts/76/gallery/TombolaHGKlentefeest2026-2.jpg\" data-size=\"2195x3255\"><img loading=\"lazy\" src=\"https://hogegilderaadkempen.be/media/posts/76/gallery/TombolaHGKlentefeest2026-2-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>",
+            "image": "https://hogegilderaadkempen.be/media/posts/76/tombola-1240x771-lg.png",
+            "author": {
+                "name": "Luc Fleerakkers"
+            },
+            "tags": [
+                   "Steunfonds"
+            ],
+            "date_published": "2026-03-24T20:09:26+01:00",
+            "date_modified": "2026-03-24T20:13:16+01:00"
+        },
+        {
             "id": "https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2222026.html",
             "url": "https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2222026.html",
             "title": "Verslag voorjaarsvergadering 22/2/2026",
@@ -147,21 +163,6 @@
             ],
             "date_published": "2023-03-24T19:42:02+01:00",
             "date_modified": "2023-03-24T19:49:52+01:00"
-        },
-        {
-            "id": "https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2622023.html",
-            "url": "https://hogegilderaadkempen.be/verslag-voorjaarsvergadering-2622023.html",
-            "title": "Verslag voorjaarsvergadering 26/2/2023",
-            "summary": "Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 26 februari 2023.",
-            "content_html": "<p>Dit is het verslag van de voorjaarsvergadering van de raad der hoofdmannen en vrouwen 26 februari 2023.</p>\n<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302261.jpg\" data-size=\"2479x3508\"><img loading=\"lazy\" src=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302261-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302262.jpg\" data-size=\"2479x3508\"><img loading=\"lazy\" src=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302262-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302263.jpg\" data-size=\"2479x3508\"><img loading=\"lazy\" src=\"https://hogegilderaadkempen.be/media/posts/66/gallery/verslag_voorjaarsvergadering_202302263-thumbnail.jpg\" alt=\"\" width=\"240\" height=\"240\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Jo Boenders"
-            },
-            "tags": [
-                   "Raad der hoofdmannen en -vrouwen"
-            ],
-            "date_published": "2023-03-24T19:38:44+01:00",
-            "date_modified": "2023-03-24T19:49:46+01:00"
         }
     ]
 }
